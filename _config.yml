@@ -31,18 +31,18 @@ bing_verify:
 links:
   - title: About Me
     url: /
-  - title: Projects
-    url: /projects/
-  - title: Publications
-    url: /publications/
+#  - title: Projects
+#    url: /projects/
+#  - title: Publications
+#    url: /publications/
   - title: Blog
     url: /blog/
   - title: Resume
     url: /resume/	
-  - title: Experience
-    url: /experience/
-  - title: Hobbies
-    url: /hobbies/
+#  - title: Experience
+#    url: /experience/
+#  - title: Hobbies
+#    url: /hobbies/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: Asia/Chongqing
